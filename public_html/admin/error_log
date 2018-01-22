@@ -1,0 +1,393 @@
+[18-Jan-2018 22:12:18 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: <br />Error No: ' in /home/pakhshpl/public_html/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home/pakhshpl/public_html/system/library/db.php(31): DB\MySQLi->__construct('37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#1 /home/pakhshpl/public_html/system/framework.php(80): DB->__construct('mysqli', '37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#2 /home/pakhshpl/public_html/system/startup.php(104): require_once('/home/pakhshpl/...')
+#3 /home/pakhshpl/public_html/admin/index.php(19): start('admin')
+#4 {main}
+  thrown in /home/pakhshpl/public_html/system/library/db/mysqli.php on line 10
+[18-Jan-2018 22:22:27 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: <br />Error No: ' in /home/pakhshpl/public_html/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home/pakhshpl/public_html/system/library/db.php(31): DB\MySQLi->__construct('37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#1 /home/pakhshpl/public_html/system/framework.php(80): DB->__construct('mysqli', '37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#2 /home/pakhshpl/public_html/system/startup.php(104): require_once('/home/pakhshpl/...')
+#3 /home/pakhshpl/public_html/admin/index.php(19): start('admin')
+#4 {main}
+  thrown in /home/pakhshpl/public_html/system/library/db/mysqli.php on line 10
+[19-Jan-2018 17:15:15 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: <br />Error No: ' in /home/pakhshpl/public_html/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home/pakhshpl/public_html/system/library/db.php(31): DB\MySQLi->__construct('37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#1 /home/pakhshpl/public_html/system/framework.php(80): DB->__construct('mysqli', '37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#2 /home/pakhshpl/public_html/system/startup.php(104): require_once('/home/pakhshpl/...')
+#3 /home/pakhshpl/public_html/admin/index.php(19): start('admin')
+#4 {main}
+  thrown in /home/pakhshpl/public_html/system/library/db/mysqli.php on line 10
+[19-Jan-2018 17:18:16 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: <br />Error No: ' in /home/pakhshpl/public_html/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home/pakhshpl/public_html/system/library/db.php(31): DB\MySQLi->__construct('37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#1 /home/pakhshpl/public_html/system/framework.php(80): DB->__construct('mysqli', '37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#2 /home/pakhshpl/public_html/system/startup.php(104): require_once('/home/pakhshpl/...')
+#3 /home/pakhshpl/public_html/admin/index.php(19): start('admin')
+#4 {main}
+  thrown in /home/pakhshpl/public_html/system/library/db/mysqli.php on line 10
+[19-Jan-2018 17:20:54 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: <br />Error No: ' in /home/pakhshpl/public_html/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home/pakhshpl/public_html/system/library/db.php(31): DB\MySQLi->__construct('37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#1 /home/pakhshpl/public_html/system/framework.php(80): DB->__construct('mysqli', '37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#2 /home/pakhshpl/public_html/system/startup.php(104): require_once('/home/pakhshpl/...')
+#3 /home/pakhshpl/public_html/admin/index.php(19): start('admin')
+#4 {main}
+  thrown in /home/pakhshpl/public_html/system/library/db/mysqli.php on line 10
+[19-Jan-2018 17:30:37 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: <br />Error No: ' in /home/pakhshpl/public_html/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home/pakhshpl/public_html/system/library/db.php(31): DB\MySQLi->__construct('37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#1 /home/pakhshpl/public_html/system/framework.php(80): DB->__construct('mysqli', '37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#2 /home/pakhshpl/public_html/system/startup.php(104): require_once('/home/pakhshpl/...')
+#3 /home/pakhshpl/public_html/admin/index.php(19): start('admin')
+#4 {main}
+  thrown in /home/pakhshpl/public_html/system/library/db/mysqli.php on line 10
+[19-Jan-2018 17:37:57 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: <br />Error No: ' in /home/pakhshpl/public_html/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home/pakhshpl/public_html/system/library/db.php(31): DB\MySQLi->__construct('37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#1 /home/pakhshpl/public_html/system/framework.php(80): DB->__construct('mysqli', '37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#2 /home/pakhshpl/public_html/system/startup.php(104): require_once('/home/pakhshpl/...')
+#3 /home/pakhshpl/public_html/admin/index.php(19): start('admin')
+#4 {main}
+  thrown in /home/pakhshpl/public_html/system/library/db/mysqli.php on line 10
+[19-Jan-2018 17:38:00 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: <br />Error No: ' in /home/pakhshpl/public_html/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home/pakhshpl/public_html/system/library/db.php(31): DB\MySQLi->__construct('37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#1 /home/pakhshpl/public_html/system/framework.php(80): DB->__construct('mysqli', '37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#2 /home/pakhshpl/public_html/system/startup.php(104): require_once('/home/pakhshpl/...')
+#3 /home/pakhshpl/public_html/admin/index.php(19): start('admin')
+#4 {main}
+  thrown in /home/pakhshpl/public_html/system/library/db/mysqli.php on line 10
+[19-Jan-2018 17:38:03 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: <br />Error No: ' in /home/pakhshpl/public_html/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home/pakhshpl/public_html/system/library/db.php(31): DB\MySQLi->__construct('37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#1 /home/pakhshpl/public_html/system/framework.php(80): DB->__construct('mysqli', '37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#2 /home/pakhshpl/public_html/system/startup.php(104): require_once('/home/pakhshpl/...')
+#3 /home/pakhshpl/public_html/admin/index.php(19): start('admin')
+#4 {main}
+  thrown in /home/pakhshpl/public_html/system/library/db/mysqli.php on line 10
+[19-Jan-2018 17:42:35 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: <br />Error No: ' in /home/pakhshpl/public_html/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home/pakhshpl/public_html/system/library/db.php(31): DB\MySQLi->__construct('37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#1 /home/pakhshpl/public_html/system/framework.php(80): DB->__construct('mysqli', '37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#2 /home/pakhshpl/public_html/system/startup.php(104): require_once('/home/pakhshpl/...')
+#3 /home/pakhshpl/public_html/admin/index.php(19): start('admin')
+#4 {main}
+  thrown in /home/pakhshpl/public_html/system/library/db/mysqli.php on line 10
+[19-Jan-2018 17:42:37 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: <br />Error No: ' in /home/pakhshpl/public_html/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home/pakhshpl/public_html/system/library/db.php(31): DB\MySQLi->__construct('37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#1 /home/pakhshpl/public_html/system/framework.php(80): DB->__construct('mysqli', '37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#2 /home/pakhshpl/public_html/system/startup.php(104): require_once('/home/pakhshpl/...')
+#3 /home/pakhshpl/public_html/admin/index.php(19): start('admin')
+#4 {main}
+  thrown in /home/pakhshpl/public_html/system/library/db/mysqli.php on line 10
+[19-Jan-2018 17:47:22 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: <br />Error No: ' in /home/pakhshpl/public_html/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home/pakhshpl/public_html/system/library/db.php(31): DB\MySQLi->__construct('37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#1 /home/pakhshpl/public_html/system/framework.php(80): DB->__construct('mysqli', '37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#2 /home/pakhshpl/public_html/system/startup.php(104): require_once('/home/pakhshpl/...')
+#3 /home/pakhshpl/public_html/admin/index.php(19): start('admin')
+#4 {main}
+  thrown in /home/pakhshpl/public_html/system/library/db/mysqli.php on line 10
+[19-Jan-2018 17:47:25 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: <br />Error No: ' in /home/pakhshpl/public_html/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home/pakhshpl/public_html/system/library/db.php(31): DB\MySQLi->__construct('37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#1 /home/pakhshpl/public_html/system/framework.php(80): DB->__construct('mysqli', '37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#2 /home/pakhshpl/public_html/system/startup.php(104): require_once('/home/pakhshpl/...')
+#3 /home/pakhshpl/public_html/admin/index.php(19): start('admin')
+#4 {main}
+  thrown in /home/pakhshpl/public_html/system/library/db/mysqli.php on line 10
+[20-Jan-2018 05:46:05 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: <br />Error No: ' in /home/pakhshpl/public_html/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home/pakhshpl/public_html/system/library/db.php(31): DB\MySQLi->__construct('37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#1 /home/pakhshpl/public_html/system/framework.php(80): DB->__construct('mysqli', '37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#2 /home/pakhshpl/public_html/system/startup.php(104): require_once('/home/pakhshpl/...')
+#3 /home/pakhshpl/public_html/admin/index.php(19): start('admin')
+#4 {main}
+  thrown in /home/pakhshpl/public_html/system/library/db/mysqli.php on line 10
+[20-Jan-2018 05:48:26 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: <br />Error No: ' in /home/pakhshpl/public_html/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home/pakhshpl/public_html/system/library/db.php(31): DB\MySQLi->__construct('37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#1 /home/pakhshpl/public_html/system/framework.php(80): DB->__construct('mysqli', '37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#2 /home/pakhshpl/public_html/system/startup.php(104): require_once('/home/pakhshpl/...')
+#3 /home/pakhshpl/public_html/admin/index.php(19): start('admin')
+#4 {main}
+  thrown in /home/pakhshpl/public_html/system/library/db/mysqli.php on line 10
+[20-Jan-2018 06:18:33 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: <br />Error No: ' in /home/pakhshpl/public_html/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home/pakhshpl/public_html/system/library/db.php(31): DB\MySQLi->__construct('37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#1 /home/pakhshpl/public_html/system/framework.php(80): DB->__construct('mysqli', '37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#2 /home/pakhshpl/public_html/system/startup.php(104): require_once('/home/pakhshpl/...')
+#3 /home/pakhshpl/public_html/admin/index.php(19): start('admin')
+#4 {main}
+  thrown in /home/pakhshpl/public_html/system/library/db/mysqli.php on line 10
+[20-Jan-2018 06:18:38 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: <br />Error No: ' in /home/pakhshpl/public_html/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home/pakhshpl/public_html/system/library/db.php(31): DB\MySQLi->__construct('37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#1 /home/pakhshpl/public_html/system/framework.php(80): DB->__construct('mysqli', '37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#2 /home/pakhshpl/public_html/system/startup.php(104): require_once('/home/pakhshpl/...')
+#3 /home/pakhshpl/public_html/admin/index.php(19): start('admin')
+#4 {main}
+  thrown in /home/pakhshpl/public_html/system/library/db/mysqli.php on line 10
+[20-Jan-2018 06:18:40 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: <br />Error No: ' in /home/pakhshpl/public_html/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home/pakhshpl/public_html/system/library/db.php(31): DB\MySQLi->__construct('37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#1 /home/pakhshpl/public_html/system/framework.php(80): DB->__construct('mysqli', '37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#2 /home/pakhshpl/public_html/system/startup.php(104): require_once('/home/pakhshpl/...')
+#3 /home/pakhshpl/public_html/admin/index.php(19): start('admin')
+#4 {main}
+  thrown in /home/pakhshpl/public_html/system/library/db/mysqli.php on line 10
+[20-Jan-2018 06:48:10 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: <br />Error No: ' in /home/pakhshpl/public_html/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home/pakhshpl/public_html/system/library/db.php(31): DB\MySQLi->__construct('37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#1 /home/pakhshpl/public_html/system/framework.php(80): DB->__construct('mysqli', '37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#2 /home/pakhshpl/public_html/system/startup.php(104): require_once('/home/pakhshpl/...')
+#3 /home/pakhshpl/public_html/admin/index.php(19): start('admin')
+#4 {main}
+  thrown in /home/pakhshpl/public_html/system/library/db/mysqli.php on line 10
+[20-Jan-2018 06:49:14 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: <br />Error No: ' in /home/pakhshpl/public_html/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home/pakhshpl/public_html/system/library/db.php(31): DB\MySQLi->__construct('37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#1 /home/pakhshpl/public_html/system/framework.php(80): DB->__construct('mysqli', '37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#2 /home/pakhshpl/public_html/system/startup.php(104): require_once('/home/pakhshpl/...')
+#3 /home/pakhshpl/public_html/admin/index.php(19): start('admin')
+#4 {main}
+  thrown in /home/pakhshpl/public_html/system/library/db/mysqli.php on line 10
+[20-Jan-2018 06:49:16 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: <br />Error No: ' in /home/pakhshpl/public_html/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home/pakhshpl/public_html/system/library/db.php(31): DB\MySQLi->__construct('37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#1 /home/pakhshpl/public_html/system/framework.php(80): DB->__construct('mysqli', '37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#2 /home/pakhshpl/public_html/system/startup.php(104): require_once('/home/pakhshpl/...')
+#3 /home/pakhshpl/public_html/admin/index.php(19): start('admin')
+#4 {main}
+  thrown in /home/pakhshpl/public_html/system/library/db/mysqli.php on line 10
+[20-Jan-2018 06:49:18 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: <br />Error No: ' in /home/pakhshpl/public_html/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home/pakhshpl/public_html/system/library/db.php(31): DB\MySQLi->__construct('37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#1 /home/pakhshpl/public_html/system/framework.php(80): DB->__construct('mysqli', '37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#2 /home/pakhshpl/public_html/system/startup.php(104): require_once('/home/pakhshpl/...')
+#3 /home/pakhshpl/public_html/admin/index.php(19): start('admin')
+#4 {main}
+  thrown in /home/pakhshpl/public_html/system/library/db/mysqli.php on line 10
+[20-Jan-2018 06:49:18 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: <br />Error No: ' in /home/pakhshpl/public_html/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home/pakhshpl/public_html/system/library/db.php(31): DB\MySQLi->__construct('37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#1 /home/pakhshpl/public_html/system/framework.php(80): DB->__construct('mysqli', '37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#2 /home/pakhshpl/public_html/system/startup.php(104): require_once('/home/pakhshpl/...')
+#3 /home/pakhshpl/public_html/admin/index.php(19): start('admin')
+#4 {main}
+  thrown in /home/pakhshpl/public_html/system/library/db/mysqli.php on line 10
+[20-Jan-2018 06:49:31 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: <br />Error No: ' in /home/pakhshpl/public_html/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home/pakhshpl/public_html/system/library/db.php(31): DB\MySQLi->__construct('37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#1 /home/pakhshpl/public_html/system/framework.php(80): DB->__construct('mysqli', '37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#2 /home/pakhshpl/public_html/system/startup.php(104): require_once('/home/pakhshpl/...')
+#3 /home/pakhshpl/public_html/admin/index.php(19): start('admin')
+#4 {main}
+  thrown in /home/pakhshpl/public_html/system/library/db/mysqli.php on line 10
+[20-Jan-2018 06:49:32 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: <br />Error No: ' in /home/pakhshpl/public_html/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home/pakhshpl/public_html/system/library/db.php(31): DB\MySQLi->__construct('37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#1 /home/pakhshpl/public_html/system/framework.php(80): DB->__construct('mysqli', '37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#2 /home/pakhshpl/public_html/system/startup.php(104): require_once('/home/pakhshpl/...')
+#3 /home/pakhshpl/public_html/admin/index.php(19): start('admin')
+#4 {main}
+  thrown in /home/pakhshpl/public_html/system/library/db/mysqli.php on line 10
+[20-Jan-2018 06:49:43 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: <br />Error No: ' in /home/pakhshpl/public_html/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home/pakhshpl/public_html/system/library/db.php(31): DB\MySQLi->__construct('37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#1 /home/pakhshpl/public_html/system/framework.php(80): DB->__construct('mysqli', '37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#2 /home/pakhshpl/public_html/system/startup.php(104): require_once('/home/pakhshpl/...')
+#3 /home/pakhshpl/public_html/admin/index.php(19): start('admin')
+#4 {main}
+  thrown in /home/pakhshpl/public_html/system/library/db/mysqli.php on line 10
+[20-Jan-2018 06:49:44 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: <br />Error No: ' in /home/pakhshpl/public_html/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home/pakhshpl/public_html/system/library/db.php(31): DB\MySQLi->__construct('37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#1 /home/pakhshpl/public_html/system/framework.php(80): DB->__construct('mysqli', '37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#2 /home/pakhshpl/public_html/system/startup.php(104): require_once('/home/pakhshpl/...')
+#3 /home/pakhshpl/public_html/admin/index.php(19): start('admin')
+#4 {main}
+  thrown in /home/pakhshpl/public_html/system/library/db/mysqli.php on line 10
+[20-Jan-2018 06:49:45 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: <br />Error No: ' in /home/pakhshpl/public_html/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home/pakhshpl/public_html/system/library/db.php(31): DB\MySQLi->__construct('37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#1 /home/pakhshpl/public_html/system/framework.php(80): DB->__construct('mysqli', '37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#2 /home/pakhshpl/public_html/system/startup.php(104): require_once('/home/pakhshpl/...')
+#3 /home/pakhshpl/public_html/admin/index.php(19): start('admin')
+#4 {main}
+  thrown in /home/pakhshpl/public_html/system/library/db/mysqli.php on line 10
+[20-Jan-2018 06:49:45 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: <br />Error No: ' in /home/pakhshpl/public_html/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home/pakhshpl/public_html/system/library/db.php(31): DB\MySQLi->__construct('37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#1 /home/pakhshpl/public_html/system/framework.php(80): DB->__construct('mysqli', '37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#2 /home/pakhshpl/public_html/system/startup.php(104): require_once('/home/pakhshpl/...')
+#3 /home/pakhshpl/public_html/admin/index.php(19): start('admin')
+#4 {main}
+  thrown in /home/pakhshpl/public_html/system/library/db/mysqli.php on line 10
+[20-Jan-2018 06:49:45 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: <br />Error No: ' in /home/pakhshpl/public_html/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home/pakhshpl/public_html/system/library/db.php(31): DB\MySQLi->__construct('37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#1 /home/pakhshpl/public_html/system/framework.php(80): DB->__construct('mysqli', '37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#2 /home/pakhshpl/public_html/system/startup.php(104): require_once('/home/pakhshpl/...')
+#3 /home/pakhshpl/public_html/admin/index.php(19): start('admin')
+#4 {main}
+  thrown in /home/pakhshpl/public_html/system/library/db/mysqli.php on line 10
+[20-Jan-2018 06:49:46 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: <br />Error No: ' in /home/pakhshpl/public_html/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home/pakhshpl/public_html/system/library/db.php(31): DB\MySQLi->__construct('37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#1 /home/pakhshpl/public_html/system/framework.php(80): DB->__construct('mysqli', '37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#2 /home/pakhshpl/public_html/system/startup.php(104): require_once('/home/pakhshpl/...')
+#3 /home/pakhshpl/public_html/admin/index.php(19): start('admin')
+#4 {main}
+  thrown in /home/pakhshpl/public_html/system/library/db/mysqli.php on line 10
+[20-Jan-2018 06:49:46 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: <br />Error No: ' in /home/pakhshpl/public_html/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home/pakhshpl/public_html/system/library/db.php(31): DB\MySQLi->__construct('37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#1 /home/pakhshpl/public_html/system/framework.php(80): DB->__construct('mysqli', '37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#2 /home/pakhshpl/public_html/system/startup.php(104): require_once('/home/pakhshpl/...')
+#3 /home/pakhshpl/public_html/admin/index.php(19): start('admin')
+#4 {main}
+  thrown in /home/pakhshpl/public_html/system/library/db/mysqli.php on line 10
+[20-Jan-2018 06:49:48 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: <br />Error No: ' in /home/pakhshpl/public_html/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home/pakhshpl/public_html/system/library/db.php(31): DB\MySQLi->__construct('37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#1 /home/pakhshpl/public_html/system/framework.php(80): DB->__construct('mysqli', '37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#2 /home/pakhshpl/public_html/system/startup.php(104): require_once('/home/pakhshpl/...')
+#3 /home/pakhshpl/public_html/admin/index.php(19): start('admin')
+#4 {main}
+  thrown in /home/pakhshpl/public_html/system/library/db/mysqli.php on line 10
+[20-Jan-2018 06:49:48 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: <br />Error No: ' in /home/pakhshpl/public_html/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home/pakhshpl/public_html/system/library/db.php(31): DB\MySQLi->__construct('37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#1 /home/pakhshpl/public_html/system/framework.php(80): DB->__construct('mysqli', '37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#2 /home/pakhshpl/public_html/system/startup.php(104): require_once('/home/pakhshpl/...')
+#3 /home/pakhshpl/public_html/admin/index.php(19): start('admin')
+#4 {main}
+  thrown in /home/pakhshpl/public_html/system/library/db/mysqli.php on line 10
+[20-Jan-2018 06:49:49 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: <br />Error No: ' in /home/pakhshpl/public_html/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home/pakhshpl/public_html/system/library/db.php(31): DB\MySQLi->__construct('37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#1 /home/pakhshpl/public_html/system/framework.php(80): DB->__construct('mysqli', '37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#2 /home/pakhshpl/public_html/system/startup.php(104): require_once('/home/pakhshpl/...')
+#3 /home/pakhshpl/public_html/admin/index.php(19): start('admin')
+#4 {main}
+  thrown in /home/pakhshpl/public_html/system/library/db/mysqli.php on line 10
+[20-Jan-2018 06:49:49 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: <br />Error No: ' in /home/pakhshpl/public_html/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home/pakhshpl/public_html/system/library/db.php(31): DB\MySQLi->__construct('37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#1 /home/pakhshpl/public_html/system/framework.php(80): DB->__construct('mysqli', '37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#2 /home/pakhshpl/public_html/system/startup.php(104): require_once('/home/pakhshpl/...')
+#3 /home/pakhshpl/public_html/admin/index.php(19): start('admin')
+#4 {main}
+  thrown in /home/pakhshpl/public_html/system/library/db/mysqli.php on line 10
+[20-Jan-2018 06:49:49 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: <br />Error No: ' in /home/pakhshpl/public_html/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home/pakhshpl/public_html/system/library/db.php(31): DB\MySQLi->__construct('37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#1 /home/pakhshpl/public_html/system/framework.php(80): DB->__construct('mysqli', '37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#2 /home/pakhshpl/public_html/system/startup.php(104): require_once('/home/pakhshpl/...')
+#3 /home/pakhshpl/public_html/admin/index.php(19): start('admin')
+#4 {main}
+  thrown in /home/pakhshpl/public_html/system/library/db/mysqli.php on line 10
+[20-Jan-2018 06:49:50 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: <br />Error No: ' in /home/pakhshpl/public_html/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home/pakhshpl/public_html/system/library/db.php(31): DB\MySQLi->__construct('37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#1 /home/pakhshpl/public_html/system/framework.php(80): DB->__construct('mysqli', '37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#2 /home/pakhshpl/public_html/system/startup.php(104): require_once('/home/pakhshpl/...')
+#3 /home/pakhshpl/public_html/admin/index.php(19): start('admin')
+#4 {main}
+  thrown in /home/pakhshpl/public_html/system/library/db/mysqli.php on line 10
+[20-Jan-2018 06:49:50 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: <br />Error No: ' in /home/pakhshpl/public_html/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home/pakhshpl/public_html/system/library/db.php(31): DB\MySQLi->__construct('37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#1 /home/pakhshpl/public_html/system/framework.php(80): DB->__construct('mysqli', '37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#2 /home/pakhshpl/public_html/system/startup.php(104): require_once('/home/pakhshpl/...')
+#3 /home/pakhshpl/public_html/admin/index.php(19): start('admin')
+#4 {main}
+  thrown in /home/pakhshpl/public_html/system/library/db/mysqli.php on line 10
+[20-Jan-2018 06:49:50 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: <br />Error No: ' in /home/pakhshpl/public_html/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home/pakhshpl/public_html/system/library/db.php(31): DB\MySQLi->__construct('37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#1 /home/pakhshpl/public_html/system/framework.php(80): DB->__construct('mysqli', '37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#2 /home/pakhshpl/public_html/system/startup.php(104): require_once('/home/pakhshpl/...')
+#3 /home/pakhshpl/public_html/admin/index.php(19): start('admin')
+#4 {main}
+  thrown in /home/pakhshpl/public_html/system/library/db/mysqli.php on line 10
+[20-Jan-2018 06:49:50 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: <br />Error No: ' in /home/pakhshpl/public_html/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home/pakhshpl/public_html/system/library/db.php(31): DB\MySQLi->__construct('37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#1 /home/pakhshpl/public_html/system/framework.php(80): DB->__construct('mysqli', '37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#2 /home/pakhshpl/public_html/system/startup.php(104): require_once('/home/pakhshpl/...')
+#3 /home/pakhshpl/public_html/admin/index.php(19): start('admin')
+#4 {main}
+  thrown in /home/pakhshpl/public_html/system/library/db/mysqli.php on line 10
+[20-Jan-2018 06:49:51 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: <br />Error No: ' in /home/pakhshpl/public_html/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home/pakhshpl/public_html/system/library/db.php(31): DB\MySQLi->__construct('37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#1 /home/pakhshpl/public_html/system/framework.php(80): DB->__construct('mysqli', '37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#2 /home/pakhshpl/public_html/system/startup.php(104): require_once('/home/pakhshpl/...')
+#3 /home/pakhshpl/public_html/admin/index.php(19): start('admin')
+#4 {main}
+  thrown in /home/pakhshpl/public_html/system/library/db/mysqli.php on line 10
+[20-Jan-2018 06:49:51 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: <br />Error No: ' in /home/pakhshpl/public_html/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home/pakhshpl/public_html/system/library/db.php(31): DB\MySQLi->__construct('37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#1 /home/pakhshpl/public_html/system/framework.php(80): DB->__construct('mysqli', '37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#2 /home/pakhshpl/public_html/system/startup.php(104): require_once('/home/pakhshpl/...')
+#3 /home/pakhshpl/public_html/admin/index.php(19): start('admin')
+#4 {main}
+  thrown in /home/pakhshpl/public_html/system/library/db/mysqli.php on line 10
+[20-Jan-2018 06:49:51 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: <br />Error No: ' in /home/pakhshpl/public_html/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home/pakhshpl/public_html/system/library/db.php(31): DB\MySQLi->__construct('37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#1 /home/pakhshpl/public_html/system/framework.php(80): DB->__construct('mysqli', '37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#2 /home/pakhshpl/public_html/system/startup.php(104): require_once('/home/pakhshpl/...')
+#3 /home/pakhshpl/public_html/admin/index.php(19): start('admin')
+#4 {main}
+  thrown in /home/pakhshpl/public_html/system/library/db/mysqli.php on line 10
+[20-Jan-2018 06:50:25 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: <br />Error No: ' in /home/pakhshpl/public_html/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home/pakhshpl/public_html/system/library/db.php(31): DB\MySQLi->__construct('localhost', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#1 /home/pakhshpl/public_html/system/framework.php(80): DB->__construct('mysqli', 'localhost', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#2 /home/pakhshpl/public_html/system/startup.php(104): require_once('/home/pakhshpl/...')
+#3 /home/pakhshpl/public_html/admin/index.php(19): start('admin')
+#4 {main}
+  thrown in /home/pakhshpl/public_html/system/library/db/mysqli.php on line 10
+[20-Jan-2018 06:50:27 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: <br />Error No: ' in /home/pakhshpl/public_html/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home/pakhshpl/public_html/system/library/db.php(31): DB\MySQLi->__construct('localhost', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#1 /home/pakhshpl/public_html/system/framework.php(80): DB->__construct('mysqli', 'localhost', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#2 /home/pakhshpl/public_html/system/startup.php(104): require_once('/home/pakhshpl/...')
+#3 /home/pakhshpl/public_html/admin/index.php(19): start('admin')
+#4 {main}
+  thrown in /home/pakhshpl/public_html/system/library/db/mysqli.php on line 10
+[20-Jan-2018 07:20:07 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: <br />Error No: ' in /home/pakhshpl/public_html/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home/pakhshpl/public_html/system/library/db.php(31): DB\MySQLi->__construct('37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#1 /home/pakhshpl/public_html/system/framework.php(80): DB->__construct('mysqli', '37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#2 /home/pakhshpl/public_html/system/startup.php(104): require_once('/home/pakhshpl/...')
+#3 /home/pakhshpl/public_html/admin/index.php(19): start('admin')
+#4 {main}
+  thrown in /home/pakhshpl/public_html/system/library/db/mysqli.php on line 10
+[20-Jan-2018 07:34:23 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: <br />Error No: ' in /home/pakhshpl/public_html/system/library/db/mysqli.php:10
+Stack trace:
+#0 /home/pakhshpl/public_html/system/library/db.php(31): DB\MySQLi->__construct('37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#1 /home/pakhshpl/public_html/system/framework.php(80): DB->__construct('mysqli', '37.187.134.89', 'pakhshpl_shop', 'akbarM@hdi', 'pakhshpl_shop', '3306')
+#2 /home/pakhshpl/public_html/system/startup.php(104): require_once('/home/pakhshpl/...')
+#3 /home/pakhshpl/public_html/admin/index.php(19): start('admin')
+#4 {main}
+  thrown in /home/pakhshpl/public_html/system/library/db/mysqli.php on line 10
+[20-Jan-2018 16:14:04 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: Unknown column 'zone' in 'field list'<br />Error No: 1054<br />INSERT INTO oc_vendor SET  email = 'test@yahoo.com', zone = 'tehran', type = '1', telephone = '', fax = '', address= '', salt = '10a9c2c92', password = 'dfbf3904ba4db13d288034e3e4d2e58478ea931e',  sort_order = '0', status = '1',  product_status = '1',date_modified = NOW(), date_added = NOW()' in /home/pakhshpl/public_html/system/library/db/mysqli.php:40
+Stack trace:
+#0 /home/pakhshpl/public_html/system/library/db.php(45): DB\MySQLi->query('INSERT INTO oc_...')
+#1 /home/pakhshpl/public_html/admin/model/catalog/vendor.php(5): DB->query('INSERT INTO oc_...')
+#2 [internal function]: ModelCatalogVendor->addVendor(Array)
+#3 /home/pakhshpl/storage/modification/system/engine/loader.php(248): call_user_func_array(Array, Array)
+#4 [internal function]: Loader->{closure}(Array, Array)
+#5 /home/pakhshpl/public_html/system/engine/proxy.php(47): call_user_func_array(Object(Closure), Array)
+#6 /home/pakhshpl/pub in /home/pakhshpl/public_html/system/library/db/mysqli.php on line 40

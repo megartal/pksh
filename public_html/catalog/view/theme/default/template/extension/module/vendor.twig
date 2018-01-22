@@ -1,0 +1,9 @@
+<div class="list-group">
+  {% for vendor in vendors %}
+  {% if vendor.vendor_id == vendor_id %}
+  <a href="{{ vendor.href }}" class="list-group-item active">{{ vendor.name }}</a>
+  {% else %} 
+  <a href="{{ vendor.href }}" class="list-group-item">{{ vendor.name }}</a>
+  {% endif %}
+  {% endfor %}
+</div>

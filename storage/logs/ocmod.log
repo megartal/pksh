@@ -1,0 +1,384 @@
+2017-12-17 12:13:05 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 69
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 77
+LINE: 151
+LINE: 168
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 59
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 67
+LINE: 73
+
+FILE: system/library/template/template.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/twig.php
+CODE: $loader = new \Twig_Loader_Filesystem(DIR_TEMPLATE);
+LINE: 19
+----------------------------------------------------------------
+MOD: Vendor settings
+
+FILE: admin/model/catalog/product.php
+CODE: extends Model
+LINE: 11
+CODE: if (!empty($data['filter_name'])) {
+LINE: 375
+LINE: 658
+
+FILE: admin/model/sale/order.php
+CODE: if (!empty($data['filter_customer'])) {
+LINE: 179
+LINE: 293
+LINE: 404
+
+FILE: admin/controller/catalog/product.php
+CODE: 'name'       => $result['name'],
+LINE: 367
+CODE: $url = '';
+LINE: 31
+LINE: 88
+LINE: 147
+LINE: 206
+LINE: 300
+LINE: 429
+LINE: 473
+LINE: 567
+CODE: function getList() {
+LINE: 255
+CODE: => $sort,
+LINE: 366
+CODE: $data['sort'] = $sort;
+LINE: 534
+
+FILE: admin/controller/sale/order.php
+CODE: $url = '';
+LINE: 46
+LINE: 157
+LINE: 277
+LINE: 329
+LINE: 431
+LINE: 759
+CODE: function getList() {
+LINE: 100
+CODE: => $sort,
+LINE: 238
+CODE: $data['sort'] = $sort;
+LINE: 400
+
+FILE: admin/controller/common/column_left.php
+CODE: $sale = array();
+LINE: 253
+
+FILE: admin/view/template/catalog/product_list.twig
+CODE: {{ column_model }}
+LINE: 151
+CODE: {{ product.model }}
+LINE: 173
+CODE: <button type="button" id="button-filter"
+LINE: 144
+CODE: var filter_model
+LINE: 235
+
+FILE: admin/view/template/sale/order_list.twig
+CODE: <button type="button" id="button-filter"
+LINE: 106
+CODE: var filter_date_added
+LINE: 213
+
+FILE: admin/model/localisation/language.php
+CODE: $language_id = $this->db->getLastId();
+LINE: 17
+CODE: deleteLanguage($language_id)
+LINE: 228
+
+FILE: catalog/controller/startup/seo_url.php
+CODE: if ($url[0] == 'product_id') {
+LINE: 28
+CODE: $url[0] != 'product_id'
+LINE: 48
+CODE: ($data['route'] == 'product/product' && $key == 'product_id')
+LINE: 83
+CODE: } elseif (isset($this->request->get['path'])) {
+LINE: 65
+
+FILE: catalog/controller/checkout/confirm.php
+CODE: 'product_id' => $product['product_id'],
+LINE: 229
+LINE: 381
+
+FILE: catalog/model/checkout/order.php
+CODE: model = '" . $this->db->escape($product['model']) . "',
+LINE: 10
+LINE: 58
+
+FILE: system/library/cart/cart.php
+CODE: 'product_id'      => $product_query->row['product_id'],
+LINE: 242
+----------------------------------------------------------------
+2017-12-28 15:05:03 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 69
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 77
+LINE: 151
+LINE: 168
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 59
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 67
+LINE: 73
+
+FILE: system/library/template/template.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/twig.php
+CODE: $loader = new \Twig_Loader_Filesystem(DIR_TEMPLATE);
+LINE: 19
+----------------------------------------------------------------
+MOD: Vendor settings
+
+FILE: admin/model/catalog/product.php
+CODE: extends Model
+LINE: 11
+CODE: if (!empty($data['filter_name'])) {
+LINE: 375
+LINE: 658
+
+FILE: admin/model/sale/order.php
+CODE: if (!empty($data['filter_customer'])) {
+LINE: 179
+LINE: 293
+LINE: 404
+
+FILE: admin/controller/catalog/product.php
+CODE: 'name'       => $result['name'],
+LINE: 367
+CODE: $url = '';
+LINE: 31
+LINE: 88
+LINE: 147
+LINE: 206
+LINE: 300
+LINE: 429
+LINE: 473
+LINE: 567
+CODE: function getList() {
+LINE: 255
+CODE: => $sort,
+LINE: 366
+CODE: $data['sort'] = $sort;
+LINE: 534
+
+FILE: admin/controller/sale/order.php
+CODE: $url = '';
+LINE: 46
+LINE: 157
+LINE: 277
+LINE: 329
+LINE: 431
+LINE: 759
+CODE: function getList() {
+LINE: 100
+CODE: => $sort,
+LINE: 238
+CODE: $data['sort'] = $sort;
+LINE: 400
+
+FILE: admin/controller/common/column_left.php
+CODE: $sale = array();
+LINE: 253
+
+FILE: admin/view/template/catalog/product_list.twig
+CODE: {{ column_model }}
+LINE: 151
+CODE: {{ product.model }}
+LINE: 173
+CODE: <button type="button" id="button-filter"
+LINE: 144
+CODE: var filter_model
+LINE: 235
+
+FILE: admin/view/template/sale/order_list.twig
+CODE: <button type="button" id="button-filter"
+LINE: 106
+CODE: var filter_date_added
+LINE: 213
+
+FILE: admin/model/localisation/language.php
+CODE: $language_id = $this->db->getLastId();
+LINE: 17
+CODE: deleteLanguage($language_id)
+LINE: 228
+
+FILE: catalog/controller/startup/seo_url.php
+CODE: if ($url[0] == 'product_id') {
+LINE: 28
+CODE: $url[0] != 'product_id'
+LINE: 48
+CODE: ($data['route'] == 'product/product' && $key == 'product_id')
+LINE: 83
+CODE: } elseif (isset($this->request->get['path'])) {
+LINE: 65
+
+FILE: catalog/controller/checkout/confirm.php
+CODE: 'product_id' => $product['product_id'],
+LINE: 229
+LINE: 381
+
+FILE: catalog/model/checkout/order.php
+CODE: model = '" . $this->db->escape($product['model']) . "',
+LINE: 10
+LINE: 58
+
+FILE: system/library/cart/cart.php
+CODE: 'product_id'      => $product_query->row['product_id'],
+LINE: 242
+----------------------------------------------------------------
+2017-12-29 11:53:27 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 69
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 77
+LINE: 151
+LINE: 168
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 59
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 67
+LINE: 73
+
+FILE: system/library/template/template.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/twig.php
+CODE: $loader = new \Twig_Loader_Filesystem(DIR_TEMPLATE);
+LINE: 19
+----------------------------------------------------------------
+MOD: Vendor settings
+
+FILE: admin/model/catalog/product.php
+CODE: extends Model
+LINE: 11
+CODE: if (!empty($data['filter_name'])) {
+LINE: 375
+LINE: 658
+
+FILE: admin/model/sale/order.php
+CODE: if (!empty($data['filter_customer'])) {
+LINE: 179
+LINE: 293
+LINE: 404
+
+FILE: admin/controller/catalog/product.php
+CODE: 'name'       => $result['name'],
+LINE: 367
+CODE: $url = '';
+LINE: 31
+LINE: 88
+LINE: 147
+LINE: 206
+LINE: 300
+LINE: 429
+LINE: 473
+LINE: 567
+CODE: function getList() {
+LINE: 255
+CODE: => $sort,
+LINE: 366
+CODE: $data['sort'] = $sort;
+LINE: 534
+
+FILE: admin/controller/sale/order.php
+CODE: $url = '';
+LINE: 46
+LINE: 157
+LINE: 277
+LINE: 329
+LINE: 431
+LINE: 759
+CODE: function getList() {
+LINE: 100
+CODE: => $sort,
+LINE: 238
+CODE: $data['sort'] = $sort;
+LINE: 400
+
+FILE: admin/controller/common/column_left.php
+CODE: $sale = array();
+LINE: 253
+
+FILE: admin/view/template/catalog/product_list.twig
+CODE: {{ column_model }}
+LINE: 151
+CODE: {{ product.model }}
+LINE: 173
+CODE: <button type="button" id="button-filter"
+LINE: 144
+CODE: var filter_model
+LINE: 235
+
+FILE: admin/view/template/sale/order_list.twig
+CODE: <button type="button" id="button-filter"
+LINE: 106
+CODE: var filter_date_added
+LINE: 213
+
+FILE: admin/model/localisation/language.php
+CODE: $language_id = $this->db->getLastId();
+LINE: 17
+CODE: deleteLanguage($language_id)
+LINE: 228
+
+FILE: catalog/controller/startup/seo_url.php
+CODE: if ($url[0] == 'product_id') {
+LINE: 28
+CODE: $url[0] != 'product_id'
+LINE: 48
+CODE: ($data['route'] == 'product/product' && $key == 'product_id')
+LINE: 83
+CODE: } elseif (isset($this->request->get['path'])) {
+LINE: 65
+
+FILE: catalog/controller/checkout/confirm.php
+CODE: 'product_id' => $product['product_id'],
+LINE: 229
+LINE: 381
+
+FILE: catalog/model/checkout/order.php
+CODE: model = '" . $this->db->escape($product['model']) . "',
+LINE: 10
+LINE: 58
+
+FILE: system/library/cart/cart.php
+CODE: 'product_id'      => $product_query->row['product_id'],
+LINE: 242
+----------------------------------------------------------------
